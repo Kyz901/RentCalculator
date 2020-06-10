@@ -1,0 +1,22 @@
+[
+  {
+    "name": "Water",
+    "prise": 0.03
+  },
+  {
+    "name": "Gas",
+    "prise": 69.65
+  },
+  {
+    "name": "Ver",
+    "prise": 56.96
+  },
+  {
+    "name": "Canalization",
+    "prise": 79.7
+  },
+  {
+    "name": "Rubbish",
+    "prise": 90.24
+  }
+]
